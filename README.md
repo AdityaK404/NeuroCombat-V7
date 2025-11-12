@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD -->
 # 🥊 NeuroCombat - AI-Powered MMA Fight Commentary System
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -311,3 +312,6 @@ This project demonstrates:
 - 🚀 Real-world problem solving
 
 **Ready to revolutionize fight sports with AI!** 🥊🤖
+<!-- =======
+# NeuroCombat-V7
+>>>>>>> a5381037028cf1db41fad1a2e67b18f670d309ea -->
